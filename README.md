@@ -1,4 +1,4 @@
-# Guardian Watcher – Advanced Security & Anti-Forensics
+# Guardian Watcher – Advanced Security & Anti-Forensics -- WIP -- STILL IN DEVELOPMENT FOR NOW
 
 Guardian Watcher is a Python-based security toolkit that passively monitors your Linux system for suspicious or unauthorized activity. If triggered, it performs a **configurable meltdown** response (e.g., power off, reboot, logout, or lock the screen).
 
